@@ -1,0 +1,139 @@
+C:\Users\jeevan.j\Desktop\mahest\New folder\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.csprojResolveAssemblyReference.cache
+C:\Users\jeevan.j\Desktop\mahest\New folder\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll.config
+C:\Users\jeevan.j\Desktop\mahest\New folder\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll
+C:\Users\jeevan.j\Desktop\mahest\New folder\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.pdb
+C:\Users\jeevan.j\Desktop\mahest\New folder\IIITS.DTLMS.BL\bin\Release\IIITS.DAL.dll
+C:\Users\jeevan.j\Desktop\mahest\New folder\IIITS.DTLMS.BL\bin\Release\System.Data.SQLite.dll
+C:\Users\jeevan.j\Desktop\mahest\New folder\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.dll
+C:\Users\jeevan.j\Desktop\mahest\New folder\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.pdb
+C:\Users\jeevan.j\Desktop\7-3-17 DTLMS\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll.config
+C:\Users\jeevan.j\Desktop\7-3-17 DTLMS\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll
+C:\Users\jeevan.j\Desktop\7-3-17 DTLMS\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.pdb
+C:\Users\jeevan.j\Desktop\7-3-17 DTLMS\IIITS.DTLMS.BL\bin\Release\IIITS.DAL.dll
+C:\Users\jeevan.j\Desktop\7-3-17 DTLMS\IIITS.DTLMS.BL\bin\Release\System.Data.SQLite.dll
+C:\Users\jeevan.j\Desktop\7-3-17 DTLMS\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.csprojResolveAssemblyReference.cache
+C:\Users\jeevan.j\Desktop\7-3-17 DTLMS\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.dll
+C:\Users\jeevan.j\Desktop\7-3-17 DTLMS\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.pdb
+E:\DTLMS SVN PROJECT\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll.config
+E:\DTLMS SVN PROJECT\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll
+E:\DTLMS SVN PROJECT\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.pdb
+E:\DTLMS SVN PROJECT\IIITS.DTLMS.BL\bin\Release\ClosedXML.dll
+E:\DTLMS SVN PROJECT\IIITS.DTLMS.BL\bin\Release\DocumentFormat.OpenXml.dll
+E:\DTLMS SVN PROJECT\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.csprojResolveAssemblyReference.cache
+E:\DTLMS SVN PROJECT\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.dll
+E:\DTLMS SVN PROJECT\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.pdb
+D:\BackupDtlms\agust\21-8-11\21-8-242\bck\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll.config
+D:\BackupDtlms\agust\21-8-11\21-8-242\bck\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll
+D:\BackupDtlms\agust\21-8-11\21-8-242\bck\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.pdb
+D:\BackupDtlms\agust\21-8-11\21-8-242\bck\IIITS.DTLMS.BL\bin\Release\ClosedXML.dll
+D:\BackupDtlms\agust\21-8-11\21-8-242\bck\IIITS.DTLMS.BL\bin\Release\DocumentFormat.OpenXml.dll
+D:\BackupDtlms\agust\21-8-11\21-8-242\bck\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.csprojResolveAssemblyReference.cache
+D:\BackupDtlms\agust\21-8-11\21-8-242\bck\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.dll
+D:\BackupDtlms\agust\21-8-11\21-8-242\bck\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.pdb
+D:\softwares\Share\bck\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll.config
+D:\softwares\Share\bck\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll
+D:\softwares\Share\bck\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.pdb
+D:\softwares\Share\bck\IIITS.DTLMS.BL\bin\Release\ClosedXML.dll
+D:\softwares\Share\bck\IIITS.DTLMS.BL\bin\Release\DocumentFormat.OpenXml.dll
+D:\softwares\Share\bck\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.csprojResolveAssemblyReference.cache
+D:\softwares\Share\bck\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.dll
+D:\softwares\Share\bck\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.pdb
+D:\share\bck\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll.config
+D:\share\bck\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll
+D:\share\bck\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.pdb
+D:\share\bck\IIITS.DTLMS.BL\bin\Release\ClosedXML.dll
+D:\share\bck\IIITS.DTLMS.BL\bin\Release\IIITS.DAL.dll
+D:\share\bck\IIITS.DTLMS.BL\bin\Release\System.Data.SQLite.dll
+D:\share\bck\IIITS.DTLMS.BL\bin\Release\DocumentFormat.OpenXml.dll
+D:\share\bck\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.csprojResolveAssemblyReference.cache
+D:\share\bck\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.dll
+D:\share\bck\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.pdb
+C:\Users\jeevan.j\Desktop\SVN\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll.config
+C:\Users\jeevan.j\Desktop\SVN\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll
+C:\Users\jeevan.j\Desktop\SVN\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.pdb
+C:\Users\jeevan.j\Desktop\SVN\IIITS.DTLMS.BL\bin\Release\ClosedXML.dll
+C:\Users\jeevan.j\Desktop\SVN\IIITS.DTLMS.BL\bin\Release\IIITS.DAL.dll
+C:\Users\jeevan.j\Desktop\SVN\IIITS.DTLMS.BL\bin\Release\System.Data.SQLite.dll
+C:\Users\jeevan.j\Desktop\SVN\IIITS.DTLMS.BL\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\jeevan.j\Desktop\SVN\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.csprojResolveAssemblyReference.cache
+C:\Users\jeevan.j\Desktop\SVN\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.dll
+C:\Users\jeevan.j\Desktop\SVN\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.pdb
+E:\present working main app\SVN\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll.config
+E:\present working main app\SVN\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll
+E:\present working main app\SVN\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.pdb
+E:\present working main app\SVN\IIITS.DTLMS.BL\bin\Release\ClosedXML.dll
+E:\present working main app\SVN\IIITS.DTLMS.BL\bin\Release\IIITS.DAL.dll
+E:\present working main app\SVN\IIITS.DTLMS.BL\bin\Release\System.Data.SQLite.dll
+E:\present working main app\SVN\IIITS.DTLMS.BL\bin\Release\DocumentFormat.OpenXml.dll
+E:\present working main app\SVN\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.csprojResolveAssemblyReference.cache
+E:\present working main app\SVN\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.dll
+E:\present working main app\SVN\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.pdb
+E:\CESCOM\Live Application\present working main app\SVN\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll.config
+E:\CESCOM\Live Application\present working main app\SVN\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll
+E:\CESCOM\Live Application\present working main app\SVN\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.pdb
+E:\CESCOM\Live Application\present working main app\SVN\IIITS.DTLMS.BL\bin\Release\ClosedXML.dll
+E:\CESCOM\Live Application\present working main app\SVN\IIITS.DTLMS.BL\bin\Release\DocumentFormat.OpenXml.dll
+E:\CESCOM\Live Application\present working main app\SVN\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.csprojResolveAssemblyReference.cache
+E:\CESCOM\Live Application\present working main app\SVN\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.dll
+E:\CESCOM\Live Application\present working main app\SVN\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.pdb
+G:\PROJECTS\DTLMS\27-03-2018\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.csprojResolveAssemblyReference.cache
+G:\PROJECTS\DTLMS\27-03-2018\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.dll
+G:\PROJECTS\DTLMS\27-03-2018\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.pdb
+G:\PROJECTS\DTLMS\27-03-2018\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll.config
+G:\PROJECTS\DTLMS\27-03-2018\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll
+G:\PROJECTS\DTLMS\27-03-2018\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.pdb
+G:\PROJECTS\DTLMS\27-03-2018\IIITS.DTLMS.BL\bin\Release\ClosedXML.dll
+G:\PROJECTS\DTLMS\27-03-2018\IIITS.DTLMS.BL\bin\Release\IIITS.PGSQL.DAL.dll
+G:\PROJECTS\DTLMS\27-03-2018\IIITS.DTLMS.BL\bin\Release\Npgsql.dll
+G:\PROJECTS\DTLMS\27-03-2018\IIITS.DTLMS.BL\bin\Release\DocumentFormat.OpenXml.dll
+G:\PROJECTS\DTLMS\27-03-2018\IIITS.DTLMS.BL\bin\Release\IIITS.PGSQL.DAL.pdb
+G:\PROJECTS\DTLMS\31-03-2018\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll.config
+G:\PROJECTS\DTLMS\31-03-2018\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll
+G:\PROJECTS\DTLMS\31-03-2018\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.pdb
+G:\PROJECTS\DTLMS\31-03-2018\IIITS.DTLMS.BL\bin\Release\ClosedXML.dll
+G:\PROJECTS\DTLMS\31-03-2018\IIITS.DTLMS.BL\bin\Release\IIITS.PGSQL.DAL.dll
+G:\PROJECTS\DTLMS\31-03-2018\IIITS.DTLMS.BL\bin\Release\Npgsql.dll
+G:\PROJECTS\DTLMS\31-03-2018\IIITS.DTLMS.BL\bin\Release\DocumentFormat.OpenXml.dll
+G:\PROJECTS\DTLMS\31-03-2018\IIITS.DTLMS.BL\bin\Release\IIITS.PGSQL.DAL.pdb
+G:\PROJECTS\DTLMS\31-03-2018\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.csprojResolveAssemblyReference.cache
+G:\PROJECTS\DTLMS\31-03-2018\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.dll
+G:\PROJECTS\DTLMS\31-03-2018\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.pdb
+G:\PROJECTS\DTLMS\03-04-2018\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll.config
+G:\PROJECTS\DTLMS\03-04-2018\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll
+G:\PROJECTS\DTLMS\03-04-2018\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.pdb
+G:\PROJECTS\DTLMS\03-04-2018\IIITS.DTLMS.BL\bin\Release\ClosedXML.dll
+G:\PROJECTS\DTLMS\03-04-2018\IIITS.DTLMS.BL\bin\Release\IIITS.PGSQL.DAL.dll
+G:\PROJECTS\DTLMS\03-04-2018\IIITS.DTLMS.BL\bin\Release\Npgsql.dll
+G:\PROJECTS\DTLMS\03-04-2018\IIITS.DTLMS.BL\bin\Release\DocumentFormat.OpenXml.dll
+G:\PROJECTS\DTLMS\03-04-2018\IIITS.DTLMS.BL\bin\Release\IIITS.PGSQL.DAL.pdb
+G:\PROJECTS\DTLMS\03-04-2018\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.csprojResolveAssemblyReference.cache
+G:\PROJECTS\DTLMS\03-04-2018\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.dll
+G:\PROJECTS\DTLMS\03-04-2018\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.pdb
+F:\SVN\WEB\EXTERNAL\WEB APPLICATION\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll.config
+F:\SVN\WEB\EXTERNAL\WEB APPLICATION\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll
+F:\SVN\WEB\EXTERNAL\WEB APPLICATION\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.pdb
+F:\SVN\WEB\EXTERNAL\WEB APPLICATION\IIITS.DTLMS.BL\bin\Release\ClosedXML.dll
+F:\SVN\WEB\EXTERNAL\WEB APPLICATION\IIITS.DTLMS.BL\bin\Release\DocumentFormat.OpenXml.dll
+F:\SVN\WEB\EXTERNAL\WEB APPLICATION\IIITS.DTLMS.BL\bin\Release\IIITS.PGSQL.DAL.pdb
+F:\SVN\WEB\EXTERNAL\WEB APPLICATION\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.csprojResolveAssemblyReference.cache
+F:\SVN\WEB\EXTERNAL\WEB APPLICATION\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.dll
+F:\SVN\WEB\EXTERNAL\WEB APPLICATION\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.pdb
+F:\SVN\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll.config
+F:\SVN\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll
+F:\SVN\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.pdb
+F:\SVN\IIITS.DTLMS.BL\bin\Release\ClosedXML.dll
+F:\SVN\IIITS.DTLMS.BL\bin\Release\DocumentFormat.OpenXml.dll
+F:\SVN\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.csprojResolveAssemblyReference.cache
+F:\SVN\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.dll
+F:\SVN\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.pdb
+F:\SVN\IIITS.DTLMS.BL\bin\Release\IIITS.PGSQL.DAL.dll
+C:\Users\madan.ks\Desktop\14-02-2019\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll.config
+C:\Users\madan.ks\Desktop\14-02-2019\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.dll
+C:\Users\madan.ks\Desktop\14-02-2019\IIITS.DTLMS.BL\bin\Release\IIITS.DTLMS.BL.pdb
+C:\Users\madan.ks\Desktop\14-02-2019\IIITS.DTLMS.BL\bin\Release\ClosedXML.dll
+C:\Users\madan.ks\Desktop\14-02-2019\IIITS.DTLMS.BL\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\madan.ks\Desktop\14-02-2019\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.csprojResolveAssemblyReference.cache
+C:\Users\madan.ks\Desktop\14-02-2019\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.dll
+C:\Users\madan.ks\Desktop\14-02-2019\IIITS.DTLMS.BL\obj\Release\IIITS.DTLMS.BL.pdb
+C:\Users\madan.ks\Desktop\14-02-2019\IIITS.DTLMS.BL\bin\Release\IIITS.PGSQL.DAL.dll
+C:\Users\madan.ks\Desktop\14-02-2019\IIITS.DTLMS.BL\bin\Release\IIITS.PGSQL.DAL.pdb

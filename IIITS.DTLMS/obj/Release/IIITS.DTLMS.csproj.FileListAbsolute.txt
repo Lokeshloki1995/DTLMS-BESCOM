@@ -1,0 +1,360 @@
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\IIITS.DTLMS.dll.config
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\IIITS.DTLMS.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\IIITS.DTLMS.pdb
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.Shared.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.Web.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\EntityFramework.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\EntityFramework.SqlServer.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\IIITS.DTLMS.BL.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\Npgsql.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\Renci.SshNet.Async.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\Renci.SshNet.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\System.Data.SQLite.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\System.Data.SQLite.EF6.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\System.Data.SQLite.Linq.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportSource.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\System.Threading.Tasks.Extensions.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\stdole.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.pdb
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\EntityFramework.xml
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\EntityFramework.SqlServer.xml
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\IIITS.DTLMS.BL.pdb
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\Renci.SshNet.xml
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\Renci.SshNet.Async.xml
+D:\Projects\new bescom checkout\IIITS.DTLMS\bin\System.Data.SQLite.xml
+D:\Projects\new bescom checkout\IIITS.DTLMS\obj\Release\IIITS.DTLMS.csprojResolveAssemblyReference.cache
+D:\Projects\new bescom checkout\IIITS.DTLMS\obj\Release\IIITS.DTLMS.dll
+D:\Projects\new bescom checkout\IIITS.DTLMS\obj\Release\IIITS.DTLMS.pdb
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\IIITS.DTLMS.dll.config
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\IIITS.DTLMS.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\IIITS.DTLMS.pdb
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.Shared.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.Web.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\EntityFramework.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\EntityFramework.SqlServer.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\IIITS.DTLMS.BL.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\Npgsql.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\Renci.SshNet.Async.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\Renci.SshNet.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\System.Data.SQLite.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\System.Data.SQLite.EF6.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\System.Data.SQLite.Linq.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportSource.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\System.Threading.Tasks.Extensions.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\stdole.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.pdb
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\EntityFramework.xml
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\EntityFramework.SqlServer.xml
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\IIITS.DTLMS.BL.pdb
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\Renci.SshNet.xml
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\Renci.SshNet.Async.xml
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\bin\System.Data.SQLite.xml
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\obj\Release\IIITS.DTLMS.csprojResolveAssemblyReference.cache
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\obj\Release\IIITS.DTLMS.dll
+D:\Projects\Bescom New\new bescom checkout\IIITS.DTLMS\obj\Release\IIITS.DTLMS.pdb
+D:\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.dll.config
+D:\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.dll
+D:\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.pdb
+D:\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.Shared.dll
+D:\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.Web.dll
+D:\Bescom Project\IIITS.DTLMS\bin\EntityFramework.dll
+D:\Bescom Project\IIITS.DTLMS\bin\EntityFramework.SqlServer.dll
+D:\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.BL.dll
+D:\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.dll
+D:\Bescom Project\IIITS.DTLMS\bin\Npgsql.dll
+D:\Bescom Project\IIITS.DTLMS\bin\Renci.SshNet.Async.dll
+D:\Bescom Project\IIITS.DTLMS\bin\Renci.SshNet.dll
+D:\Bescom Project\IIITS.DTLMS\bin\System.Data.SQLite.dll
+D:\Bescom Project\IIITS.DTLMS\bin\System.Data.SQLite.EF6.dll
+D:\Bescom Project\IIITS.DTLMS\bin\System.Data.SQLite.Linq.dll
+D:\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportSource.dll
+D:\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Bescom Project\IIITS.DTLMS\bin\System.Threading.Tasks.Extensions.dll
+D:\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Bescom Project\IIITS.DTLMS\bin\stdole.dll
+D:\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.pdb
+D:\Bescom Project\IIITS.DTLMS\bin\EntityFramework.xml
+D:\Bescom Project\IIITS.DTLMS\bin\EntityFramework.SqlServer.xml
+D:\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.BL.pdb
+D:\Bescom Project\IIITS.DTLMS\bin\Renci.SshNet.xml
+D:\Bescom Project\IIITS.DTLMS\bin\Renci.SshNet.Async.xml
+D:\Bescom Project\IIITS.DTLMS\bin\System.Data.SQLite.xml
+D:\Bescom Project\IIITS.DTLMS\obj\Release\IIITS.DTLMS.csprojResolveAssemblyReference.cache
+D:\Bescom Project\IIITS.DTLMS\obj\Release\IIITS.DTLMS.dll
+D:\Bescom Project\IIITS.DTLMS\obj\Release\IIITS.DTLMS.pdb
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.dll.config
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.pdb
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.Shared.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.Web.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\EntityFramework.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\EntityFramework.SqlServer.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.BL.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\Npgsql.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\Renci.SshNet.Async.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\Renci.SshNet.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\System.Data.SQLite.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\System.Data.SQLite.EF6.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\System.Data.SQLite.Linq.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportSource.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\System.Threading.Tasks.Extensions.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\stdole.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.pdb
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\EntityFramework.xml
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\EntityFramework.SqlServer.xml
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.BL.pdb
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\Renci.SshNet.xml
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\Renci.SshNet.Async.xml
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\bin\System.Data.SQLite.xml
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\obj\Release\IIITS.DTLMS.csprojResolveAssemblyReference.cache
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\obj\Release\IIITS.DTLMS.dll
+D:\BESCOM EXTERNAL APPLICATION RELATED FILES\Bescom Project\IIITS.DTLMS\obj\Release\IIITS.DTLMS.pdb
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.dll.config
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.pdb
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.Shared.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.Web.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\EntityFramework.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\EntityFramework.SqlServer.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.BL.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\Npgsql.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\Renci.SshNet.Async.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\Renci.SshNet.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\System.Data.SQLite.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\System.Data.SQLite.EF6.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\System.Data.SQLite.Linq.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportSource.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\System.Threading.Tasks.Extensions.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\stdole.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.pdb
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\EntityFramework.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\EntityFramework.SqlServer.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\IIITS.DTLMS.BL.pdb
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\Renci.SshNet.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\Renci.SshNet.Async.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\bin\System.Data.SQLite.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\obj\Release\IIITS.DTLMS.csprojResolveAssemblyReference.cache
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\obj\Release\IIITS.DTLMS.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.4\Bescom Project\IIITS.DTLMS\obj\Release\IIITS.DTLMS.pdb
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\IIITS.DTLMS.dll.config
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\IIITS.DTLMS.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\IIITS.DTLMS.pdb
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\CrystalDecisions.Shared.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\CrystalDecisions.Web.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\EntityFramework.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\EntityFramework.SqlServer.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\IIITS.DTLMS.BL.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\Npgsql.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\Renci.SshNet.Async.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\Renci.SshNet.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\System.Data.SQLite.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\System.Data.SQLite.EF6.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\System.Data.SQLite.Linq.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\CrystalDecisions.ReportSource.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\System.Threading.Tasks.Extensions.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\stdole.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.pdb
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\EntityFramework.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\EntityFramework.SqlServer.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\IIITS.DTLMS.BL.pdb
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\Renci.SshNet.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\Renci.SshNet.Async.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\bin\System.Data.SQLite.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\obj\Release\IIITS.DTLMS.csprojResolveAssemblyReference.cache
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\obj\Release\IIITS.DTLMS.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.5\IIITS.DTLMS\obj\Release\IIITS.DTLMS.pdb
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\IIITS.DTLMS.dll.config
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\IIITS.DTLMS.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\IIITS.DTLMS.pdb
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.Shared.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.Web.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\EntityFramework.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\EntityFramework.SqlServer.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\IIITS.DTLMS.BL.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\Npgsql.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\Renci.SshNet.Async.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\Renci.SshNet.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\System.Data.SQLite.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\System.Data.SQLite.EF6.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\System.Data.SQLite.Linq.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportSource.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\System.Threading.Tasks.Extensions.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\stdole.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.pdb
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\EntityFramework.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\EntityFramework.SqlServer.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\IIITS.DTLMS.BL.pdb
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\Renci.SshNet.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\Renci.SshNet.Async.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\System.Data.SQLite.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\obj\Release\IIITS.DTLMS.csprojResolveAssemblyReference.cache
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\obj\Release\IIITS.DTLMS.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\obj\Release\IIITS.DTLMS.pdb
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\IIITS.DTLMS.dll.config
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\IIITS.DTLMS.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\IIITS.DTLMS.pdb
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.Shared.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.Web.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\EntityFramework.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\EntityFramework.SqlServer.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\IIITS.DTLMS.BL.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\Npgsql.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\Renci.SshNet.Async.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\Renci.SshNet.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\System.Data.SQLite.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\System.Data.SQLite.EF6.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\System.Data.SQLite.Linq.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportSource.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\System.Threading.Tasks.Extensions.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\stdole.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.pdb
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\EntityFramework.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\EntityFramework.SqlServer.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\IIITS.DTLMS.BL.pdb
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\Renci.SshNet.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\Renci.SshNet.Async.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\bin\System.Data.SQLite.xml
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\obj\Release\IIITS.DTLMS.csprojResolveAssemblyReference.cache
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\obj\Release\IIITS.DTLMS.dll
+D:\ALL UPDATES SVN CODES_15-11-2022\BESCOM EXTERNAL WEB\BESCOM EXTERNAL WEB V3.6\BESCOM EXTERNAL WEB V3.6\IIITS.DTLMS\obj\Release\IIITS.DTLMS.pdb
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\IIITS.DTLMS.dll.config
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\IIITS.DTLMS.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\IIITS.DTLMS.pdb
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\CrystalDecisions.Shared.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\CrystalDecisions.Web.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\EntityFramework.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\EntityFramework.SqlServer.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\IIITS.DTLMS.BL.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\Npgsql.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\Renci.SshNet.Async.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\Renci.SshNet.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\System.Data.SQLite.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\System.Data.SQLite.EF6.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\System.Data.SQLite.Linq.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\CrystalDecisions.ReportSource.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\System.Threading.Tasks.Extensions.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\stdole.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\IIITS.DTLMS.REPORTS.pdb
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\EntityFramework.xml
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\EntityFramework.SqlServer.xml
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\IIITS.DTLMS.BL.pdb
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\Renci.SshNet.xml
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\Renci.SshNet.Async.xml
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\bin\System.Data.SQLite.xml
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\obj\Release\IIITS.DTLMS.csprojResolveAssemblyReference.cache
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\obj\Release\IIITS.DTLMS.dll
+D:\Projects\Bescom Project\V3.7\IIITS.DTLMS\obj\Release\IIITS.DTLMS.pdb
